@@ -49,7 +49,7 @@ This report provides visualizations that help in making data-driven decisions re
 1. **Clone or Download the Repository**
    ```bash
    git clone https://github.com/stalepizza/workforce_analytics.git
-   cd your-repo-name
+   cd workforce_analytics
    ```
 2. Adjust as per your liking!
 
