@@ -2,6 +2,9 @@
 
 This repository provides a Power BI report (`workforce_analytics.pbix`) that offers insights into workforce data. Use this README to understand the project scope, how to get started, and the technical requirements for viewing or modifying the analytics report.
 
+<img width="1793" height="1007" alt="image" src="https://github.com/user-attachments/assets/40794a98-74c9-4f13-ba6c-6525de018034" />
+<img width="1796" height="1008" alt="image" src="https://github.com/user-attachments/assets/40b0551c-9a38-4e9e-a765-f6140726af90" />
+
 ---
 
 ## Table of Contents
